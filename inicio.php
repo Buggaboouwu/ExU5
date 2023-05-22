@@ -12,20 +12,7 @@ include 'head.php';
   <link rel="stylesheet" href="css/style.css">
   <style>
     /* Estilos personalizados para el carrusel */
-    .carousel-inner {
-      margin-top: 0;
-    }
-
-    .carousel-item {
-      padding: 0;
-    }
-
-    .carousel-item img {
-      margin: 0;
-      width: auto;
-      max-height: 400px; /* Ajusta la altura máxima según tus preferencias */
-      object-fit: cover;
-    }
+ 
   </style>
 </head>
 <body>
